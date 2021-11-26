@@ -4,7 +4,7 @@
   "description": "Pirmasis, idomesnio dizaino projektas 😎🎶🎶🐱‍👤 ",
   "main": "index.js",
   "scripts": {
-    "dev": "live-server",
+    "dev": "live-server --port=3000 --host=localhost",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
