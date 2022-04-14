@@ -6,7 +6,7 @@ _**Project**_
 
 Projet Educative
 
-[PUBLISED](https://github.com/zazeli/2-serlokas)
+[PUBLISED](https://zazeli.github.io/sherlock/)
 
 Design: _Serlokas_
 
